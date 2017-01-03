@@ -50,7 +50,13 @@ git常用命令
 
 		查看命令历史
 
+	10. git checkout -- file
 
+		恢复工作区内容
+
+	11. git reset HEAD file
+
+		撤销暂存区内容	
 
 
 
