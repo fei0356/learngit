@@ -1,0 +1,28 @@
+repository : 仓库名；
+pwd : 显示路径；
+
+
+git常用命令
+	
+	1. git init 
+
+		把这个目录变成Git可以管理的仓库；
+
+	2. git add filename
+
+		把文件添加到仓库；
+
+	3. git commit -m "log"
+
+		把文件提交到仓库；
+
+	4. git status
+
+		 查看文件是否被修改；
+
+	5. git diff
+
+		查看修改具体内容
+
+	6. git
+
